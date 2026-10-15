@@ -1,5 +1,3 @@
-from xml.sax.handler import property_interning_dict
-
 shooping_list = []
 shooping_list.append("我是你爸爸")
 shooping_list.append("我是你们妈")

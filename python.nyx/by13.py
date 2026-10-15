@@ -8,24 +8,25 @@
 
 #开头
 class Student:
-    def __init__(self,name,age):
+    def __init__(self, name, student_id):
         self.name = name
-        self.age = age
+        self.student_id = student_id
         self.score = {"math":0,"english":0,"chinese":0}
 
-    #分类
-    def kll_score(self,bll,llb):
-        if bll in self.score:
-            self.score[bll] = llb
+    # 设置某科成绩（科目名打错时明确报错，不再静默失效）
+    def set_score(self, subject, score):
+        if subject not in self.score:
+            raise ValueError(f"没有这个科目：{subject}；可选 {list(self.score)}")
+        self.score[subject] = score
     def print_score(self):
-        print(f"Student name is {self.name} (student ID Number is {self.age}) The result is: " )
-        for bll in self.score:
-            print(f"{bll}: {self.score[bll]} points")
+        print(f"Student name is {self.name} (student ID Number is {self.student_id}) The result is: ")
+        for subject, score in self.score.items():
+            print(f"{subject}: {score} points")
 
 foilo = Student("foilo","1100")
-foilo.kll_score("math",90)
-foilo.kll_score("english",90)
-foilo.kll_score("chinese",95)
+foilo.set_score("math",90)
+foilo.set_score("english",90)
+foilo.set_score("chinese",95)
 foilo.print_score()
 
 

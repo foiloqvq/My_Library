@@ -11,7 +11,7 @@ if user_BMI <=18.5:
     print("些BMI值属于偏瘦范围")
 elif 18.5 < user_BMI <=25:
     print("些BMI值属于正常范围")
-elif 18.5 < user_BMI <=30:
+elif 25 < user_BMI <= 30:
     print("些BMI属于胖范围")
 else:
     print("些BMI属于肥胖范围")

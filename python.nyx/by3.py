@@ -1,4 +1,3 @@
-from idlelib.colorizer import prog_group_name_to_tag
 ggp = "你好 我是聂亦炫"
 ggp_Chinese = ggp
 ggp_english = "yo what's up"

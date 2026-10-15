@@ -2,7 +2,6 @@
 #user_height = float(input("请输入您的身高 （单位: m) : "))
 #user_BMI = user_weight / float(user_height) **2
 #print("您的BMI值为："+str(user_BMI))
-from warnings import catch_warnings
 
 
 def calculate_BMI(height,weight):
