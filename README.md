@@ -1,4 +1,4 @@
-# My-private-Libary
+# My Library
 Basic Content
 Hehehehe 
 # tere's still no telling how 
