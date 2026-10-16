@@ -1,4 +1,6 @@
 # My Library
+> 本仓库由 **foilo qvq** 与 **DSH Agent**（DeepSeek Harness 桌面端智能体）共同维护 —— 人负责方向、素材与验收，智能体负责实现、文档与排障。
+
 Basic Content
 Hehehehe 
 # tere's still no telling how 
