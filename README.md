@@ -95,6 +95,7 @@ these three subjects.
 | --- | --- |
 | [`dsh-yachiyo-tts/`](dsh-yachiyo-tts/README.md) | 月读八千代 TTS 接入 DeepSeek Harness：桥接层（协议翻译 / 排队重试 / 音频后处理）、最小补丁、量化诊断工具、调参与运维文档 |
 | [**vr-math-world**](https://github.com/foiloqvq/vr-math-world) | 大项目：PC + VR 的数学可视化开放世界（数学可视化 / 阅读空间 / AI 智能体同伴 / UGC / 游戏内经济）—— Phase 1 文档中 |
+| [`toolchain/`](toolchain/README.md) | 开发工具链：MSVC 编译器 / .NET SDK / CMake / Ninja / Unity Hub，附一键自检脚本 |
 | [`python.nyx/`](python.nyx) | Python 练习 |
 | [`math_high_school_notes_and_difficulties/`](math_high_school_notes_and_difficulties) | 高中数学笔记与错题 |
 
