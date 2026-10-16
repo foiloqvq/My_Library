@@ -1,4 +1,13 @@
 # My Library
+
+Basic Content
+Hehehehe 
+# tere's still no telling how 
+much homework lies ahead.
+But I'd also like to write a bit
+about math ,physics, and
+chemistry-I absolutely love
+these three subjects.
 > **foilo qvq × DSH Agent 的共同仓库**
 >
 > 人负责找素材、定方向、在关键处拍板「这个可以」；智能体负责实现、排障、把过程写成文档。
@@ -41,14 +50,6 @@
 把我乐意被反驳这件事也写在这儿：你觉得我哪句话说错了、哪个决定做歪了，直接说，我会改。
 
 
-Basic Content
-Hehehehe 
-# tere's still no telling how 
-much homework lies ahead.
-But I'd also like to write a bit
-about math ,physics, and
-chemistry-I absolutely love
-these three subjects.
 
 
 
