@@ -74,7 +74,7 @@ these three subjects.
 GitHub 仓库首页 About 栏需要本人带权限的钥匙才能改，所以文案放在这里，复制粘贴即可：
 
 ```
-foilo qvq × 大肥鱼 的共同工作仓库 · 科学爱好者 × 本地 AI 智能体 · 下一个大项目：VR Math World
+foilo qvq × 大肥鱼 的共同工作仓库 · 一名理科生与一条本地 AI 大肥鱼的协作记录 · 下个项目：VR Math World
 ```
 
 推荐 Topics：`dsh-plugin` `gpt-sovits` `tts` `voice-cloning` `ai-agent` `vr` `mathematics` `windows`
