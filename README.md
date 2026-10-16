@@ -12,7 +12,7 @@ these three subjects.
 >
 > 人负责找素材、定方向、在关键处拍板「这个可以」；智能体负责实现、排障、把过程写成文档。
 >
-> 目前最新一件是 [`dsh-yachiyo-tts/`]([dsh-yachiyo-tts/README.md](https://github.com/foiloqvq/vr-math-world)) —— 把月读八千代 TTS 接进 DeepSeek Harness。
+> 目前最新一件是 [**VR math world**](https://github.com/foiloqvq/vr-math-world) —— 把月读八千代 TTS 接进 DeepSeek Harness。
 > 下一件大事是 [**VR Math World**](https://github.com/foiloqvq/vr-math-world)。
 
 ## 关于foilo
