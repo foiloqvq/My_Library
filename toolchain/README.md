@@ -55,3 +55,7 @@ dotnet run
 1. `/Zc:__cplusplus` 必须加 —— 否则 MSVC 永远把 `__cplusplus` 报成 `199711`（看起来像 C++98，其实标准是生效的）。
 2. 新装的工具（cmake / ninja）不会出现在**已经打开**的终端里 —— 要么重开终端，要么在脚本开头重新读注册表里的 PATH：
    `$env:Path = [Environment]::GetEnvironmentVariable('Path','Machine') + ';' + [Environment]::GetEnvironmentVariable('Path','User')`
+3. **`.ps1` 必须带 UTF-8 BOM** —— `powershell.exe`(5.1) 对没有 BOM 的脚本按 GBK 解码，
+   中文会变乱码、引号也会被撑破（我写这个脚本时正好踩了，报错里出现 `'鏈畨瑁?` 就是"未安装"被读坏了）。
+   修法：`[IO.File]::WriteAllText($p, $t, [Text.UTF8Encoding]::new($true))`。
+   （`pwsh` 7 默认 UTF-8 无此问题；本仓库脚本都带 BOM，方便两种 PowerShell 都能跑。）

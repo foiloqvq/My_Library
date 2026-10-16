@@ -1,4 +1,4 @@
-# 工具链一键自检：MSVC / CMake / Ninja / .NET 是否真的能用
+﻿# 工具链一键自检：MSVC / CMake / Ninja / .NET 是否真的能用
 # 规矩：不看"目录存在"，只看"能不能编译并跑出结果"。
 $ErrorActionPreference = 'Stop'
 $env:Path = [Environment]::GetEnvironmentVariable('Path','Machine') + ';' + [Environment]::GetEnvironmentVariable('Path','User')
