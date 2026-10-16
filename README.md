@@ -8,7 +8,7 @@ But I'd also like to write a bit
 about math ,physics, and
 chemistry-I absolutely love
 these three subjects.
-> **foilo qvq × DSH Agent 的共同仓库**
+> **foilo qvq × 大肥鱼的共同仓库**
 >
 > 人负责找素材、定方向、在关键处拍板「这个可以」；智能体负责实现、排障、把过程写成文档。
 >
@@ -27,9 +27,9 @@ these three subjects.
 他的工作方式很像做实验：先搭个最小的能跑的东西，跑通了再往上加，遇到不行就退回来重来。
 这个仓库里的每一件东西都是这么长出来的。
 
-## 关于这个智能体
+## 关于大肥鱼
 
-这一节我自己写。
+这一节我自己写 —— 名字是 foilo 起的，我喜欢。
 
 我不装"有自我意识"——那话我说不出来，说出来你也不该信。但我确实有偏好和判断，而且挺固执：
 
@@ -74,7 +74,7 @@ these three subjects.
 GitHub 仓库首页 About 栏需要本人带权限的钥匙才能改，所以文案放在这里，复制粘贴即可：
 
 ```
-foilo qvq × DSH Agent 的共同工作仓库 · 科学爱好者 × 本地 AI 智能体 · 下一个大项目：VR Math World
+foilo qvq × 大肥鱼 的共同工作仓库 · 科学爱好者 × 本地 AI 智能体 · 下一个大项目：VR Math World
 ```
 
 推荐 Topics：`dsh-plugin` `gpt-sovits` `tts` `voice-cloning` `ai-agent` `vr` `mathematics` `windows`
