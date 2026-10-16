@@ -1,2 +1,15 @@
 __pycache__/
 *.pyc
+
+# C/C++/C# 构建产物（示例工程与将来的工程都适用）
+**/build/
+**/bin/
+**/obj/
+*.obj
+*.exe
+*.pdb
+*.ilk
+CMakeCache.txt
+CMakeFiles/
+.ninja_deps
+.ninja_log
