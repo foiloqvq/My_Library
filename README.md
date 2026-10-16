@@ -15,7 +15,7 @@ these three subjects.
 > 目前最新一件是 [`dsh-yachiyo-tts/`](dsh-yachiyo-tts/README.md) —— 把月读八千代 TTS 接进 DeepSeek Harness。
 > 下一件大事是 [**VR Math World**](https://github.com/foiloqvq/vr-math-world)。
 
-## 关于这个人
+## 关于foilo
 
 喜欢数学、物理、化学 —— 所有"能一步步推到底"的东西。读高中，爱做题也爱琢磨题背后的结构，
 把错题和笔记都攒在这个仓库里（见 `math_high_school_notes_and_difficulties/`、`python.nyx/`）。
